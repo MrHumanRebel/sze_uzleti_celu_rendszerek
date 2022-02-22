@@ -1,7 +1,0 @@
-sorszám     név                   szül.év          anyja neve
-1.          Kiss Tibor            1989             Nagy Borbála
-2.          Nagy Sándor           1978             Kiss Ramóna
-3.          Horváth Renáta        1990             Hajnal Róza
-4.          Balikó Tamás          1948             Balogh Éva
- 
- 
