@@ -15,20 +15,9 @@
 ## Információk
 
 
-<p align="center">
-    <table>
-        <tbody>
-            <td align="center">
-                <br><b>⚠️ Figyelmeztetés: Megjelenés előtti / Kísérleti anyag ⚠️</b><br><sub>
-                Az anyag nem teljes, még fejlesztés alatt áll!<br>
-                Ha szeretnéd, hogy ez a projekt gyorsabban haladjon, vagy bővebb C++ tapasztalattal rendelkezel, <a href="https://github.com/login?return_to=%2FMrHumanRebel%2Fsze_programozas">segítsd a projektet</a>! A Wiki jegyzet szerkesztéséhez szükséges jogokért keresd <a href="https://github.com/MrHumanRebel">MrHumanRebel</a>-t
-                <br><img width=1000><br>
-                <br><br>
-            </td>
-        </tbody>
-    </table>
-</p>
-
+** **
+**⚠️ Figyelmeztetés: Megjelenés előtti / Kísérleti anyag ⚠️**
+** **
 
 **Csak oktatási célokra használd, saját felelősségre!**
 
