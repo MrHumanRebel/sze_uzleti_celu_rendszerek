@@ -30,3 +30,5 @@ _A megoldások nem feltétlenül helyesek, ha igen akkor is lehet, hogy nem a le
 
 # Linkek
 [SAS](https://welcome.oda.sas.com/home)
+
+[SAS szoftver letöltés (Windows)](https://support.sas.com/downloads/package.htm?pid=2433)
