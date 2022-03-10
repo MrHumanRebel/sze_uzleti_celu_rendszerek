@@ -21,8 +21,6 @@
 
 **Csak oktatási célokra használd, saját felelősségre!**
 
-**A vizsga feladatai jelentősen nehezebbek, mint az itt megtalálható megoldások és minták!**
-
 _A megoldások nem feltétlenül helyesek, ha igen akkor is lehet, hogy nem a legoptimálisabbak!_
 
 #uzleticrendszerekvizsganebukjmeg
