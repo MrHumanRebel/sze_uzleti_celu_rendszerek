@@ -4,14 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/MrHumanRebel/sze_uzleti_celu_rendszerek/main/docs/sas.jpg" alt="Uzleti" width="300" height="123">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MrHumanRebel/sze_uzleti_celu_rendszerek)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/MrHumanRebel/sze_uzleti_celu_rendszerek)
-![Lines of code](https://img.shields.io/tokei/lines/github/MrHumanRebel/sze_uzleti_celu_rendszerek)
-![GitHub](https://img.shields.io/github/license/MrHumanRebel/sze_uzleti_celu_rendszerek)
-
-![GitHub all releases](https://img.shields.io/github/downloads/MrHumanRebel/sze_uzleti_celu_rendszerek/total)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/MrHumanRebel/sze_uzleti_celu_rendszerek)
-
 ## Információk
 
 
